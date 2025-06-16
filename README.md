@@ -41,7 +41,6 @@ support across areas served.
 4. Truck Breakdown and Maintenance Frequency
    * Assess the frequency of truck breakdowns and scheduled maintenance to pinpoint areas needing
 additional support or preventive measures.
-
 These insights from EDA will contribute to optimizing workforce planning, improving fleet management,
 and enhancing the overall efficiency of oil transfer services.
 
