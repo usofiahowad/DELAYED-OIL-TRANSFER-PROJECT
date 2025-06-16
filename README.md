@@ -17,3 +17,12 @@ allocation, and process efficiency, this project seeks to identify trends and ke
  *  Analysis: Identifying delay trends and correlating them with operational factors.
  *  Root Cause Analysis: Identifying the primary contributors to the delay.
  *  Solution Proposal: Recommending solutions, such as process optimization and resource allocation.
+
+  **Data Source**
+   Data set provided by the client as a CSV file, which was downloaded and processed for
+analysis.
+
+**Tools**
+1. Microsoft Excel: Utilized for preliminary data correction and initial review of the dataset.
+
+
