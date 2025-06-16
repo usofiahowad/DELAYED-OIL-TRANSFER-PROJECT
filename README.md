@@ -1,4 +1,4 @@
- # DELAYED OIL TRANSFER PROJECT
+# DELAYED OIL TRANSFER PROJECT
 **PROJECT OVERVIEW**
  **Objective** 
 This project investigates the root causes of delays in the oil transfer
@@ -90,4 +90,7 @@ upgrading or replacing older trucks. Actionable Steps:
     * Perform a detailed analysis of trucks&#39; age, usage patterns, and maintenance logs to identify inefficiencies.
     * Develop a preventive maintenance schedule to reduce breakdowns, including replacing parts before they fail.
     * Investigate leasing or acquiring newer, more efficient
+  
+      ![promise passport](https://github.com/user-attachments/assets/51e0dc61-79bf-438c-8a00-6818134317af)
+
 
