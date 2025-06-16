@@ -60,4 +60,4 @@ SELECT COUNT(*) AS EmployeesHiredInLastYear FROM employees WHERE hire_date &gt;=
 DATE_SUB(CURDATE(), INTERVAL 1 YEAR);
 SELECT YEAR(hire_date) AS Year, MONTH(hire_date) AS Month, COUNT(*) AS EmployeesHired
 FROM employees GROUP BY YEAR(hire_date), MONTH(hire_date) ORDER BY YEAR(hire_date)
-DESC, MONTH(hire_date) DESC; ```
+DESC, MONTH(hire_date) DESC;```
