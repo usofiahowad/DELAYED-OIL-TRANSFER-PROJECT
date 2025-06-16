@@ -72,6 +72,7 @@ DESC, MONTH(hire_date) DESC;```
 * Employee Hiring: 40 new employees hired, 15 truck drivers in the past year.
 * Hiring Trend: 15 truck drivers hired in the last quarter, indicating demand or turnover.
 * Insight: Fleet and workforce optimization are needed for efficiency and cost reduction.
+  
 **RECOMMENDATIONS**
 Based on the Exploratory Data Analysis (EDA) and insights derived from the SQL queries, here are some
 recommendations to improve the efficiency and reliability of the oil transfer service:
